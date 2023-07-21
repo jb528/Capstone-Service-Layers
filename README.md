@@ -15,14 +15,5 @@ The service layer of DogPro accepts requests from the UI, processes these reques
 Design Documents
 All relevant design documents related to the service layer are in the `design` folder. This includes details of how the service layer communicates with the database, alongside the database design documents, which illustrate how the data is structured and stored.
 
-Set Up
-- Step 1: Clone the repository to your local machine.
-- Step 2: Install the necessary dependencies in the `package.json` file using `npm install`.
-- Step 3: Set up your database and connect it to the application by updating the database connection string in the application configuration file.
 
-Usage
-- Start the application by running `npm start` in your terminal.
-- Navigate to the specified port on your localhost to interact with the application.
-- Utilize the user interface to create, update, and manage dog profiles.
-- Use the UI to update and track feeding and potty schedules and training plans.
   
